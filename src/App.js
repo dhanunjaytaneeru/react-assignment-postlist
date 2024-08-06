@@ -1,7 +1,7 @@
 import React from 'react';
-import PostList from './PostList';
+import PostList from './PostList.tsx';
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <div>
       <h1>Post List</h1>

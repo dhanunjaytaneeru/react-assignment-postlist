@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
-import Post from './Post';
+import Post from './Post.tsx';
 
 interface PostData {
   id: number;
